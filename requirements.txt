@@ -1,0 +1,6 @@
+streamlit
+requests
+beautifulsoup4
+edge-tts
+pydub
+groq
